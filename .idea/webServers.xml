@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b75c27cf-187f-4375-924b-774f1df1f6fc" name="keras" url="http://dpl07.skyeyes.lycc.qihoo.net">
+        <fileTransfer host="dpl07.skyeyes.lycc.qihoo.net" port="22" rootFolder="/home/liubo-it" accessType="SFTP" password="dfdbdfdddfcfdfd8df9bdf98df99df9edf8bdfeadf89df8edffbdffddfefdff8" username="liubo-it">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
